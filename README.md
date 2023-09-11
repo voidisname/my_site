@@ -5,7 +5,9 @@ my site i guess
   (the website is using 000webhost sooo take that as you will)
 ## usage pt2
 
-  in cmd: git clone https://github.com/voidisname/my_site && cd src
+  _git:_ `git clone https://github.com/voidisname/my_site` 
+  
+  _cd:_ `cd src` 
   
   and open index.html xD
   
