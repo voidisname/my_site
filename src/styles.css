@@ -94,6 +94,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
+  overflow: hidden;
 }
 #topb {
   position: fixed; /* Fixed/sticky position */
