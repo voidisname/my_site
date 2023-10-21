@@ -2,7 +2,7 @@
 my site i guess
 ## usage
   https://sjsxskjhjk.000webhostapp.com/
-  (the website is using 000webhost sooo take that as you will)
+  (the website is using 000webhost sooo take that as you will) may not be up to date
 ## usage pt2
 
   _git:_ `git clone https://github.com/voidisname/my_site` 
