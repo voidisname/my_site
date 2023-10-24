@@ -38,48 +38,6 @@
   font-size: 20px;
   margin: 15px;
 }
-/*.top{
-  font-size: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: auto;
-  background: rgba(2, 61, 2, 0.736);
-  border: 3px solid rgb(249, 255, 193);
-  color: rgb(249, 255, 193);
-  border-radius: 15px;
-  width: 95%;
-  min-height: 100px;
-  max-height: 200px;
-  height: auto; 
-  margin-bottom: 15px;
-}
-.p1t{
-  font-size: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: auto;
-  background: rgba(2, 61, 2, 0.736);
-  border: 2px solid rgb(249, 255, 193);
-  color: rgb(249, 255, 193);
-  border-radius: 15px;
-  width: 95%;
-  height: auto; 
-  margin-bottom: 15px;
-}
-.p1if{
-  font-size: medium;
-  text-align: center;
-  text-decoration: none;
-  margin: auto;
-  background: rgba(2, 61, 2, 0.736);
-  border: 2px solid rgb(249, 255, 193);
-  color: rgb(249, 255, 193);
-  border-radius: 15px;
-  width: 95%;
-  height: auto; 
-  margin-bottom: 15px;
-}
-*/
 .imgw{
   margin-top: 15px;
   margin-bottom: 15px;
@@ -88,19 +46,6 @@
 .imgw:hover{
   transform: scale(4);
 }
-/*.end{
-  font-size: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: auto;
-  background: rgba(2, 61, 2, 0.736);
-  border: 2px solid rgb(249, 255, 193);
-  color: rgb(249, 255, 193);
-  border-radius: 15px;
-  width: 95%;
-  height: 95%; 
-  margin-bottom: 15px;
-}*/
 body {
   background-image: url('back.webp');
   background-repeat: no-repeat;
