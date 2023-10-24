@@ -8,7 +8,8 @@
   color: rgb(249, 255, 193);
   transform: scale(1);
   opacity: 1;
-  font-size: 30px;
+  width: 100px;
+  height: 100px;
 }
 .fa:hover {
   animation: fnani 5s;
