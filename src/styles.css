@@ -1,5 +1,5 @@
 .fa {
-  padding: 20px;
+  padding: 40px;
   text-decoration: none;
 
 }
@@ -7,6 +7,7 @@
   color: rgb(249, 255, 193);
   transform: scale(3);
   opacity: 1;
+  padding: 40px;
 }
 .fa:hover {
   animation: fnani 5s;
