@@ -1,24 +1,21 @@
 .fa {
   padding: 20px;
-  text-align: center;
   text-decoration: none;
 
 }
 .fa-github {
   color: rgb(249, 255, 193);
-  transform: scale(1);
+  transform: scale(3);
   opacity: 1;
-  width: 100px;
-  height: 100px;
 }
 .fa:hover {
   animation: fnani 5s;
   animation-iteration-count: infinite; 
 }
 @keyframes fnani {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.5); }
-  100% { transform: scale(1); }
+  0% { transform: scale(3); }
+  50% { transform: scale(3.5); }
+  100% { transform: scale(3); }
 }
 .box{
   display: flex;
