@@ -30,6 +30,16 @@
   font-size: 50px;
   margin: 15px;
 }
+.boxw{
+  display: flex;
+  align-items: center;
+  background: rgba(2, 61, 2, 0.736);
+  border: 3px solid rgb(249, 255, 193);
+  color: rgb(249, 255, 193);
+  border-radius: 15px;
+  font-size: 50px;
+  margin: 15px;
+}
 /*.top{
   font-size: 50px;
   text-align: center;
