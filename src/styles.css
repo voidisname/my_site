@@ -28,6 +28,7 @@
   border-radius: 15px;
   font-size: 50px;
   margin: 15px;
+  overflow: hidden;
 }
 .boxw{
   text-align: center;
@@ -37,6 +38,7 @@
   border-radius: 15px;
   font-size: 20px;
   margin: 15px;
+  overflow: hidden;
 }
 .imgw{
   margin-top: 15px;
