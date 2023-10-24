@@ -72,12 +72,12 @@
   margin-bottom: 15px;
 }
 */
-.pli{
+.imgw{
   margin-top: 15px;
   margin-bottom: 15px;
   transition: transform .2s;
 }
-.pli:hover{
+.imgw:hover{
   transform: scale(4);
 }
 /*.end{
