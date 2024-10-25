@@ -4,8 +4,8 @@ my site i guess
 
 ## usage
 
-https://sjsxskjhjk.000webhostapp.com/
-(the website is using 000webhost sooo take that as you will) may not be up to date (will work until 9/11/2024)
+https://www.hostinger.com/blog/000webhost-closes
+(̶t̶h̶e̶ ̶w̶e̶b̶s̶i̶t̶e̶ ̶i̶s̶ ̶u̶s̶i̶n̶g̶ ̶0̶0̶0̶w̶e̶b̶h̶o̶s̶t̶ ̶s̶o̶o̶o̶ ̶t̶a̶k̶e̶ ̶t̶h̶a̶t̶ ̶a̶s̶ ̶y̶o̶u̶ ̶w̶i̶l̶l̶)̶ ̶m̶a̶y̶ ̶n̶o̶t̶ ̶b̶e̶ ̶u̶p̶ ̶t̶o̶ ̶d̶a̶t̶e̶ ̶(̶w̶i̶l̶l̶ ̶w̶o̶r̶k̶ ̶u̶n̶t̶i̶l̶ ̶9̶/̶1̶1̶/̶2̶0̶2̶4̶)̶
 
 ## usage pt2
 
